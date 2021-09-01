@@ -16,20 +16,20 @@
 
 ## ABOUT ME
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/pauloeduardo2906)](https://github.com/pauloeduardo2906)
-
-<a href="https://www.linkedin.com/in/pauloeduardojr/" target="_blank">![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white "https://www.linkedin.com/in/pauloeduardojr/")</a> 
-
+<p align="left">
+<a href="https://github.com/pauloeduardo2906" target="_blank"><img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/pauloeduardo2906" alt="https://github.com/pauloeduardo2906" title="https://github.com/pauloeduardo2906"/></a>
+<a href="https://www.linkedin.com/in/pauloeduardojr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="https://www.linkedin.com/in/pauloeduardojr/" title="https://www.linkedin.com/in/pauloeduardojr/"/></a> 
+</p>
 
 
 
 
 ## CONTACTS
 
-
-<a href="https://api.whatsapp.com/send?phone=5521967502311&text=Ol%C3%A1!%20Gostaria%20de%20fazer%20um%20or%C3%A7amento%20com%20voc%C3%AA!" target="_blank">![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white "(21) 96750-2311")</a> 
-
-<a href="mailto:pauloeduardo2906@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white "pauloeduardo2906@gmail.com")</a> 
+<p align="left">
+<a href="https://api.whatsapp.com/send?phone=5521967502311&text=Ol%C3%A1!%20Gostaria%20de%20fazer%20um%20or%C3%A7amento%20com%20voc%C3%AA!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="(21) 96750-2311" title="(21) 96750-2311"/></a>
+<a href="mailto:pauloeduardo2906@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="pauloeduardo2906@gmail.com" title="pauloeduardo2906@gmail.com"/></a> 
+</p>
 
 
 
