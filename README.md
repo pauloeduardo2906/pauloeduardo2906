@@ -8,7 +8,7 @@
 
 :house_with_garden: I’m from Brazil, living in Rio de Janeiro.
 
-:outbox_tray: 2021 Goals: Create a new project and find a new job.
+:outbox_tray: 2022 Goals: Create a new project and find a new job.
 
 
 
