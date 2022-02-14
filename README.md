@@ -27,7 +27,7 @@
 ## CONTACTS
 
 <p align="left">
-<a href="https://api.whatsapp.com/send?phone=5521967502311&text=Ol%C3%A1!%20Gostaria%20de%20fazer%20um%20or%C3%A7amento%20com%20voc%C3%AA!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="(21) 96750-2311" title="(21) 96750-2311"/></a>
+<a href="https://api.whatsapp.com/send?phone=5521967502311" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="(21) 96750-2311" title="(21) 96750-2311"/></a>
 <a href="mailto:pauloeduardo2906@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="pauloeduardo2906@gmail.com" title="pauloeduardo2906@gmail.com"/></a> 
 </p>
 
