@@ -17,7 +17,6 @@
 ## ABOUT ME
 
 <p align="left">
-<a href="https://github.com/pauloeduardo2906" target="_blank"><img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/pauloeduardo2906" alt="https://github.com/pauloeduardo2906" title="https://github.com/pauloeduardo2906"/></a>
 <a href="https://www.linkedin.com/in/pauloeduardojr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="https://www.linkedin.com/in/pauloeduardojr/" title="https://www.linkedin.com/in/pauloeduardojr/"/></a> 
 </p>
 
