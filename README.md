@@ -10,9 +10,6 @@
 
 :outbox_tray: 2022 Goals: Create a new project and find a new job.
 
-:email: Email: pauloeduardo2906@gmail.com
-
-:email: WhatsApp: (21) 96750-2311
 
 
 
@@ -34,8 +31,13 @@
 </p>
 
 
+----------
 
+:email: WhatsApp: (21) 96750-2311
 
+:email: Email: pauloeduardo2906@gmail.com
+
+----------
 
 ## Languages and Tools
 
