@@ -33,9 +33,13 @@
 
 ----------
 
-:email: WhatsApp: (21) 96750-2311
+<p>
+<sub><img height="30rem" src="https://logodownload.org/wp-content/uploads/2015/04/whatsapp-logo-png-0-1536x1536.png"></sub> <sup>(21) 96750-2311</sup>
+</p>
 
-:email: Email: pauloeduardo2906@gmail.com
+<p>
+<sub><img height="20rem" src="https://imagepng.org/wp-content/uploads/2018/03/gmail-cone-icon.png"></sub> <sup>pauloeduardo2906@gmail.com</sup>
+</p>
 
 ----------
 
